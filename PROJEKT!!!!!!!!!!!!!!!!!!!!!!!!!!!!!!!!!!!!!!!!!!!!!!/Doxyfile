@@ -1,0 +1,30 @@
+# ---------------- Doxygen config ----------------
+
+PROJECT_NAME           = "Monitor Jakości Powietrza"
+PROJECT_BRIEF          = "Qt/QML app for air quality monitoring - online/offline snapshot"
+OUTPUT_DIRECTORY       = ./docs
+GENERATE_HTML          = YES
+HTML_OUTPUT            = html
+GENERATE_LATEX         = NO
+INPUT                  = ./mainwindow.h ./storage.h ./analysis.h ./dataloaderworker.h ./mainwindow.cpp ./storage.cpp ./analysis.cpp ./dataloaderworker.cpp
+RECURSIVE              = NO
+
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+EXTRACT_STATIC         = YES
+EXTRACT_LOCAL_CLASSES  = YES
+
+SOURCE_BROWSER         = YES
+INLINE_SOURCES         = YES
+STRIP_CODE_COMMENTS    = NO
+SHOW_INCLUDE_FILES     = YES
+GENERATE_TREEVIEW      = YES
+FULL_PATH_NAMES        = NO
+
+QUIET                  = NO
+WARN_IF_UNDOCUMENTED   = YES
+
+FILE_PATTERNS          = *.h *.cpp
+
+# --------------- Polish-specific tweaks (optional) ----------------
+OUTPUT_LANGUAGE        = English

@@ -1,0 +1,12 @@
+release/mainwindow.o
+release/storage.o
+release/analysis.o
+release/main.o
+release/dataloaderworker.o
+release/test_analysis.o
+release/test_storage.o
+release/qrc_qml.o
+release/moc_mainwindow.o
+release/moc_dataloaderworker.o
+release/moc_test_storage.o
+release/moc_test_analysis.o

@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['savedataifdue_0',['saveDataIfDue',['../class_main_window.html#a6a641523a51791b8674e9909daabc1a0',1,'MainWindow']]],
+  ['savedatatofileonly_1',['saveDataToFileOnly',['../class_main_window.html#aceffba665b00b06bd9b888b3117de5d1',1,'MainWindow']]],
+  ['savefulldata_2',['saveFullData',['../class_storage.html#a0673beaafde2b6b153941922b36cce59',1,'Storage']]],
+  ['savesensordatatofile_3',['saveSensorDataToFile',['../class_storage.html#a209c51705a181bc456cd8bc0a4cffb3c',1,'Storage']]],
+  ['savetestdataforallstations_4',['saveTestDataForAllStations',['../class_main_window.html#aa806087b55ef11ef8d30ae0b376d00ee',1,'MainWindow']]],
+  ['savingfinished_5',['savingFinished',['../class_data_saver_worker.html#ae7e95d8726ed558f5d90df082d817c53',1,'DataSaverWorker']]],
+  ['selectedsensor_6',['selectedSensor',['../class_main_window.html#af81eef6abdd790606cee564846d4567a',1,'MainWindow::selectedSensor'],['../class_main_window.html#a8424c47f3fbefe437975edb8cd31782c',1,'MainWindow::selectedSensor() const']]],
+  ['selectedsensorchanged_7',['selectedSensorChanged',['../class_main_window.html#acb31267dab151ff2328629559832cb1d',1,'MainWindow']]],
+  ['selectedstation_8',['selectedStation',['../class_main_window.html#a421ec1f271ac294ca1db2b095b1070e2',1,'MainWindow::selectedStation'],['../class_main_window.html#a9aaedd90463352cf8140d1fd62d06420',1,'MainWindow::selectedStation() const']]],
+  ['selectedstationchanged_9',['selectedStationChanged',['../class_main_window.html#a34d59288f05742b9a8f3b087f3c4faa7',1,'MainWindow']]],
+  ['sensormeasurements_10',['sensorMeasurements',['../class_main_window.html#a72c0a35a7ae767146d02799d725cd605',1,'MainWindow::sensorMeasurements'],['../class_main_window.html#abdead1f1e924ceca124bc9500c7d206c',1,'MainWindow::sensorMeasurements() const']]],
+  ['sensormeasurementschanged_11',['sensorMeasurementsChanged',['../class_main_window.html#a95811818c6bbba9387599028cd2a4b42',1,'MainWindow']]],
+  ['sensors_12',['sensors',['../class_main_window.html#a8e3c2790fab23140b174eea542d9ea73',1,'MainWindow::sensors'],['../class_main_window.html#a2af76fc67e7a019ff4a15e1760b87c2c',1,'MainWindow::sensors() const']]],
+  ['sensorschanged_13',['sensorsChanged',['../class_main_window.html#a91c4b769235bc0aafc20ad7b2fb2a1e3',1,'MainWindow']]],
+  ['sensorviewvisible_14',['sensorViewVisible',['../class_main_window.html#af64572b8375f9f9e3156e5c7805a3abb',1,'MainWindow::sensorViewVisible'],['../class_main_window.html#a99a9446d77bd124b81bbfc1e29ba0282',1,'MainWindow::sensorViewVisible() const']]],
+  ['sensorviewvisiblechanged_15',['sensorViewVisibleChanged',['../class_main_window.html#aff62f1b26fca3dc2abceebc8e6827d4b',1,'MainWindow']]],
+  ['setselectedstation_16',['setSelectedStation',['../class_main_window.html#a0afd434f13cc0d71c19cc927145c59c6',1,'MainWindow']]],
+  ['startsaving_17',['startSaving',['../class_data_saver_worker.html#a9e4d625c9c07fd3cd1b177e2844a08ce',1,'DataSaverWorker']]],
+  ['stations_18',['stations',['../class_main_window.html#a3b94a120f9ce9d4f2786d96837917be4',1,'MainWindow::stations'],['../class_main_window.html#a095ddb4b7e08e542f1a148ac5e5ce111',1,'MainWindow::stations() const']]],
+  ['stationschanged_19',['stationsChanged',['../class_main_window.html#ad6d230c53c3628833a80896fa729c06a',1,'MainWindow']]],
+  ['status_20',['status',['../class_main_window.html#a0f87209377d9aea8edec2169053b620e',1,'MainWindow::status'],['../class_main_window.html#aa88f4d6f7467cbbc3fe3930697ada25f',1,'MainWindow::status() const']]],
+  ['statuschanged_21',['statusChanged',['../class_main_window.html#af63d0bdd203b1b2d04bb90c96493f617',1,'MainWindow']]],
+  ['storage_22',['Storage',['../class_storage.html',1,'']]],
+  ['storage_2ecpp_23',['storage.cpp',['../storage_8cpp.html',1,'']]],
+  ['storage_2eh_24',['storage.h',['../storage_8h.html',1,'']]]
+];

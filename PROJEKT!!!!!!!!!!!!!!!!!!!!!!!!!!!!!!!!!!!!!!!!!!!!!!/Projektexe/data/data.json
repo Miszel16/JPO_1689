@@ -1,0 +1,1733 @@
+{
+    "indices": {
+        "11": {
+            "id": 11,
+            "stCalcDate": "2025-04-23 12:20:14",
+            "stIndexLevel": "Dobry",
+            "stIndexLevelId": 1,
+            "stSourceDataDate": "2025-04-23 12:00:00"
+        }
+    },
+    "sensors": {
+        "11": [
+            {
+                "id": 50,
+                "lastDate": "2025-04-23 12:00:00",
+                "lastValue": 3.5,
+                "paramCode": "NO2",
+                "paramFormula": "NO2",
+                "paramName": "dwutlenek azotu",
+                "stationId": 11
+            },
+            {
+                "id": 52,
+                "lastDate": "2025-04-23 12:00:00",
+                "lastValue": 90.9,
+                "paramCode": "O3",
+                "paramFormula": "O3",
+                "paramName": "ozon",
+                "stationId": 11
+            },
+            {
+                "id": 54,
+                "lastDate": "2025-04-23 11:00:00",
+                "lastValue": 15.6,
+                "paramCode": "PM10",
+                "paramFormula": "PM10",
+                "paramName": "pył zawieszony PM10",
+                "stationId": 11
+            }
+        ]
+    },
+    "stations": [
+        {
+            "address": "ul. Strażacka 7",
+            "city": "Czerniawa",
+            "lat": "50.912475",
+            "lon": "15.312190",
+            "stationId": 11,
+            "stationName": "Czerniawa"
+        },
+        {
+            "address": "ul. Piłsudskiego 26",
+            "city": "Dzierżoniów",
+            "lat": "50.732817",
+            "lon": "16.648050",
+            "stationId": 16,
+            "stationName": "Dzierżoniów, ul. Piłsudskiego"
+        },
+        {
+            "address": "ul. Szkolna 8",
+            "city": "Kłodzko",
+            "lat": "50.433493",
+            "lon": "16.653660",
+            "stationId": 38,
+            "stationName": "Kłodzko, ul. Szkolna"
+        },
+        {
+            "address": "al. Rzeczypospolitej 10/12",
+            "city": "Legnica",
+            "lat": "51.204503",
+            "lon": "16.180513",
+            "stationId": 52,
+            "stationName": "Legnica, al. Rzeczypospolitej"
+        },
+        {
+            "address": "ul. Bartnicza",
+            "city": "Wrocław",
+            "lat": "51.115933",
+            "lon": "17.141125",
+            "stationId": 114,
+            "stationName": "Wrocław, ul. Bartnicza"
+        },
+        {
+            "address": "ul. Wyb. J.Conrada-Korzeniowskiego 18",
+            "city": "Wrocław",
+            "lat": "51.129378",
+            "lon": "17.029250",
+            "stationId": 117,
+            "stationName": "Wrocław, wyb. Conrada-Korzeniowskiego"
+        },
+        {
+            "address": "al. Wiśniowa/ul. Powst. Śląskich",
+            "city": "Wrocław",
+            "lat": "51.086225",
+            "lon": "17.012689",
+            "stationId": 129,
+            "stationName": "Wrocław, al. Wiśniowa"
+        },
+        {
+            "address": "ul. Solankowa",
+            "city": "Inowrocław",
+            "lat": "52.793122",
+            "lon": "18.241044",
+            "stationId": 143,
+            "stationName": "Inowrocław, ul. Solankowa"
+        },
+        {
+            "address": "Plac Poznański",
+            "city": "Bydgoszcz",
+            "lat": "53.121764",
+            "lon": "17.987906",
+            "stationId": 156,
+            "stationName": "Bydgoszcz, pl. Poznański"
+        },
+        {
+            "address": "ul. Warszawska 10",
+            "city": "Bydgoszcz",
+            "lat": "53.134083",
+            "lon": "17.995708",
+            "stationId": 158,
+            "stationName": "Bydgoszcz, ul. Warszawska"
+        },
+        {
+            "address": "Pojezierze Chełmińskie",
+            "city": "Koniczynka",
+            "lat": "53.080647",
+            "lon": "18.684258",
+            "stationId": 190,
+            "stationName": "Koniczynka, Pojezierze Chełmińskie"
+        },
+        {
+            "address": "ul. Dziewulskiego 1",
+            "city": "Toruń",
+            "lat": "53.028647",
+            "lon": "18.666103",
+            "stationId": 206,
+            "stationName": "Toruń, ul. Dziewulskiego"
+        },
+        {
+            "address": "ul. Przy Kaszowniku",
+            "city": "Toruń",
+            "lat": "53.017628",
+            "lon": "18.612808",
+            "stationId": 208,
+            "stationName": "Toruń, ul. Przy Kaszowniku"
+        },
+        {
+            "address": "Bory Tucholskie",
+            "city": "Zielonka",
+            "lat": "53.662117",
+            "lon": "17.934017",
+            "stationId": 232,
+            "stationName": "Zielonka, Bory Tucholskie"
+        },
+        {
+            "address": "ul. Obywatelska 13",
+            "city": "Lublin",
+            "lat": "51.259431",
+            "lon": "22.569133",
+            "stationId": 266,
+            "stationName": "Lublin, ul. Obywatelska"
+        },
+        {
+            "address": "Ujęcie wody",
+            "city": "Gajew",
+            "lat": "52.143258",
+            "lon": "19.233217",
+            "stationId": 291,
+            "stationName": "Gajew, Ujęcie Wody"
+        },
+        {
+            "address": "ul. Czernika 1/3",
+            "city": "Łódź",
+            "lat": "51.758050",
+            "lon": "19.529786",
+            "stationId": 295,
+            "stationName": "Łódź, ul. Czernika"
+        },
+        {
+            "address": "ul. Gdańska 16",
+            "city": "Łódź",
+            "lat": "51.775378",
+            "lon": "19.450992",
+            "stationId": 296,
+            "stationName": "Łódź, ul. Gdańska"
+        },
+        {
+            "address": "ul. Konstantynowska",
+            "city": "Pabianice",
+            "lat": "51.667981",
+            "lon": "19.368683",
+            "stationId": 314,
+            "stationName": "Pabianice, ul. Konstantynowska"
+        },
+        {
+            "address": "Ujęcie wody",
+            "city": "Parzniewice",
+            "lat": "51.291175",
+            "lon": "19.517556",
+            "stationId": 319,
+            "stationName": "Parzniewice, Ujęcie Wody"
+        },
+        {
+            "address": "ul. Krakowskie Przedmieście 13",
+            "city": "Piotrków Trybunalski",
+            "lat": "51.404406",
+            "lon": "19.696956",
+            "stationId": 322,
+            "stationName": "Piotrków Trybunalski, ul. Krakowskie Przedmieście"
+        },
+        {
+            "address": "ul. Kosynierów Gdyńskich",
+            "city": "Gorzów Wielkopolski",
+            "lat": "52.738214",
+            "lon": "15.228667",
+            "stationId": 361,
+            "stationName": "Gorzów Wlkp. ul. Kosynierów Gdyńskich"
+        },
+        {
+            "address": "ul. Dudka",
+            "city": "Sulęcin",
+            "lat": "52.437722",
+            "lon": "15.122444",
+            "stationId": 376,
+            "stationName": "Sulęcin ul. Dudka"
+        },
+        {
+            "address": "ul. Kazimierza Wielkiego",
+            "city": "Wschowa",
+            "lat": "51.799722",
+            "lon": "16.317500",
+            "stationId": 379,
+            "stationName": "Wschowa ul. Kazimierza Wielkiego"
+        },
+        {
+            "address": "al. Krasińskiego",
+            "city": "Kraków",
+            "lat": "50.057678",
+            "lon": "19.926189",
+            "stationId": 400,
+            "stationName": "Kraków, Aleja Krasińskiego"
+        },
+        {
+            "address": "ul. Bulwarowa",
+            "city": "Kraków",
+            "lat": "50.069308",
+            "lon": "20.053492",
+            "stationId": 402,
+            "stationName": "Kraków, ul. Bulwarowa"
+        },
+        {
+            "address": "os. Ogrody",
+            "city": "Skawina",
+            "lat": "49.971047",
+            "lon": "19.830422",
+            "stationId": 437,
+            "stationName": "Skawina, os. Ogrody"
+        },
+        {
+            "address": "Szymbark 430",
+            "city": "Szymbark",
+            "lat": "49.633714",
+            "lon": "21.116833",
+            "stationId": 443,
+            "stationName": "Szymbark"
+        },
+        {
+            "address": "ul. Bitwy pod Studziankami",
+            "city": "Tarnów",
+            "lat": "50.020169",
+            "lon": "21.004167",
+            "stationId": 444,
+            "stationName": "Tarnów, ul. Bitwy pod Studziankami"
+        },
+        {
+            "address": "os. Widokowe (dawne os. ZWM)",
+            "city": "Trzebinia",
+            "lat": "50.159406",
+            "lon": "19.477464",
+            "stationId": 449,
+            "stationName": "Trzebinia, os. Związku Walki Młodych"
+        },
+        {
+            "address": "ul. Pułaskiego 6/8",
+            "city": "Piastów",
+            "lat": "52.191728",
+            "lon": "20.837489",
+            "stationId": 488,
+            "stationName": "Piastów, ul. Pułaskiego"
+        },
+        {
+            "address": "ul. Mikołaja Reja 28",
+            "city": "Płock",
+            "lat": "52.550938",
+            "lon": "19.709791",
+            "stationId": 501,
+            "stationName": "Płock, ul. Reja"
+        },
+        {
+            "address": "ul. Tochtermana 1",
+            "city": "Radom",
+            "lat": "51.399084",
+            "lon": "21.147474",
+            "stationId": 515,
+            "stationName": "Radom, ul. Tochtermana"
+        },
+        {
+            "address": "ul. Konarskiego 11",
+            "city": "Siedlce",
+            "lat": "52.172145",
+            "lon": "22.282001",
+            "stationId": 517,
+            "stationName": "Siedlce, ul. Konarskiego"
+        },
+        {
+            "address": "ul. Wokalna 1",
+            "city": "Warszawa",
+            "lat": "52.160772",
+            "lon": "21.033819",
+            "stationId": 550,
+            "stationName": "Warszawa, ul. Wokalna"
+        },
+        {
+            "address": "ul. Kondratowicza 8",
+            "city": "Warszawa",
+            "lat": "52.290864",
+            "lon": "21.042458",
+            "stationId": 552,
+            "stationName": "Warszawa, ul. Kondratowicza"
+        },
+        {
+            "address": "ul. Bolesława Śmiałego 5",
+            "city": "Kędzierzyn-Koźle",
+            "lat": "50.349608",
+            "lon": "18.236575",
+            "stationId": 568,
+            "stationName": "Kędzierzyn-Koźle, ul. Śmiałego"
+        },
+        {
+            "address": "ul. Kniaziewicza 30",
+            "city": "Słupsk",
+            "lat": "54.463611",
+            "lon": "17.046722",
+            "stationId": 725,
+            "stationName": "Słupsk, ul. Kniaziewicza"
+        },
+        {
+            "address": "ul. Powstańców Warszawskich",
+            "city": "Gdańsk",
+            "lat": "54.353196",
+            "lon": "18.635267",
+            "stationId": 729,
+            "stationName": "Gdańsk, ul. Powstańców Warszawskich"
+        },
+        {
+            "address": "ul. Wyzwolenia",
+            "city": "Gdańsk",
+            "lat": "54.400788",
+            "lon": "18.657332",
+            "stationId": 731,
+            "stationName": "Gdańsk, ul. Wyzwolenia"
+        },
+        {
+            "address": "ul. Leczkowa",
+            "city": "Gdańsk",
+            "lat": "54.380139",
+            "lon": "18.619766",
+            "stationId": 736,
+            "stationName": "Gdańsk, ul. Leczkowa"
+        },
+        {
+            "address": "ul. Targowa",
+            "city": "Kościerzyna",
+            "lat": "54.120694",
+            "lon": "17.975861",
+            "stationId": 740,
+            "stationName": "Kościerzyna, ul. Targowa"
+        },
+        {
+            "address": "",
+            "city": "Liniewko Kościerskie",
+            "lat": "54.104111",
+            "lon": "18.182972",
+            "stationId": 743,
+            "stationName": "Liniewko Kościerskie"
+        },
+        {
+            "address": "ul. Armii Krajowej 2",
+            "city": "Częstochowa",
+            "lat": "50.817217",
+            "lon": "19.118997",
+            "stationId": 798,
+            "stationName": "Częstochowa, ul. AK/Jana Pawła II"
+        },
+        {
+            "address": "ul. Baczyńskiego 2",
+            "city": "Częstochowa",
+            "lat": "50.836389",
+            "lon": "19.130111",
+            "stationId": 800,
+            "stationName": "Częstochowa, ul. Baczyńskiego"
+        },
+        {
+            "address": "ul. Tysiąclecia 25 a",
+            "city": "Dąbrowa Górnicza",
+            "lat": "50.329111",
+            "lon": "19.231222",
+            "stationId": 805,
+            "stationName": "Dąbrowa Górnicza, ul. Tysiąclecia"
+        },
+        {
+            "address": "ul. Borki 37 d",
+            "city": "Rybnik",
+            "lat": "50.111181",
+            "lon": "18.516139",
+            "stationId": 834,
+            "stationName": "Rybnik, ul. Borki"
+        },
+        {
+            "address": "ul. Lubelska 51",
+            "city": "Sosnowiec",
+            "lat": "50.285956",
+            "lon": "19.184399",
+            "stationId": 837,
+            "stationName": "Sosnowiec, ul. Lubelska"
+        },
+        {
+            "address": "ul. Sanatoryjna 7",
+            "city": "Ustroń",
+            "lat": "49.719731",
+            "lon": "18.826722",
+            "stationId": 842,
+            "stationName": "Ustroń, ul. Sanatoryjna"
+        },
+        {
+            "address": "ul. Gałczyńskiego 1",
+            "city": "Wodzisław Śląski",
+            "lat": "50.007629",
+            "lon": "18.455548",
+            "stationId": 845,
+            "stationName": "Wodzisław Śląski, ul. Gałczyńskiego"
+        },
+        {
+            "address": "Leśniczówka Kamienna Góra",
+            "city": "Złoty Potok",
+            "lat": "50.710889",
+            "lon": "19.458797",
+            "stationId": 853,
+            "stationName": "Złoty Potok, Leśniczówka"
+        },
+        {
+            "address": "ul. Bażyńskiego 6",
+            "city": "Elbląg",
+            "lat": "54.167847",
+            "lon": "19.410942",
+            "stationId": 861,
+            "stationName": "Elbląg, ul. Bażyńskiego"
+        },
+        {
+            "address": "ul. Jaćwieska 17",
+            "city": "Gołdap",
+            "lat": "54.305908",
+            "lon": "22.307681",
+            "stationId": 870,
+            "stationName": "Gołdap, ul. Jaćwieska"
+        },
+        {
+            "address": "ul. Puszkina 16",
+            "city": "Olsztyn",
+            "lat": "53.789233",
+            "lon": "20.486075",
+            "stationId": 877,
+            "stationName": "Olsztyn, ul. Puszkina"
+        },
+        {
+            "address": "ul. Wyszyńskiego 3",
+            "city": "Konin",
+            "lat": "52.225650",
+            "lon": "18.268927",
+            "stationId": 902,
+            "stationName": "Konin, ul. Wyszyńskiego"
+        },
+        {
+            "address": "ul. Dąbrowskiego 169",
+            "city": "Poznań",
+            "lat": "52.420319",
+            "lon": "16.877289",
+            "stationId": 944,
+            "stationName": "Poznań, ul. Dąbrowskiego"
+        },
+        {
+            "address": "ul. Andrzejewskiego 23",
+            "city": "Szczecin",
+            "lat": "53.380975",
+            "lon": "14.663347",
+            "stationId": 986,
+            "stationName": "Szczecin, ul. Andrzejewskiego"
+        },
+        {
+            "address": "ul. Piłsudskiego 1",
+            "city": "Szczecin",
+            "lat": "53.432169",
+            "lon": "14.553900",
+            "stationId": 987,
+            "stationName": "Szczecin, ul. Piłsudskiego"
+        },
+        {
+            "address": "ul. Szymanowskiego 8",
+            "city": "Żary",
+            "lat": "51.642656",
+            "lon": "15.127808",
+            "stationId": 382,
+            "stationName": "Żary, ul. Szymanowskiego "
+        },
+        {
+            "address": "ul. Ogińskiego 6",
+            "city": "Jelenia Góra",
+            "lat": "50.913433",
+            "lon": "15.765608",
+            "stationId": 9153,
+            "stationName": "Jelenia Góra, ul. Ogińskiego"
+        },
+        {
+            "address": "ul. Piastów 6",
+            "city": "Zdzieszowice",
+            "lat": "50.423533",
+            "lon": "18.120739",
+            "stationId": 600,
+            "stationName": "Zdzieszowice, ul. Piastów"
+        },
+        {
+            "address": "ul. Roosevelta 2",
+            "city": "Żyrardów",
+            "lat": "52.053811",
+            "lon": "20.429892",
+            "stationId": 562,
+            "stationName": "Żyrardów, ul. Roosevelta"
+        },
+        {
+            "address": "ul. Wyszyńskiego",
+            "city": "Kalisz",
+            "lat": "51.747950",
+            "lon": "18.049063",
+            "stationId": 952,
+            "stationName": "Kalisz, ul. Wyszyńskiego"
+        },
+        {
+            "address": "ul. Orzechowa",
+            "city": "Biała Podlaska",
+            "lat": "52.029194",
+            "lon": "23.149389",
+            "stationId": 236,
+            "stationName": "Biała Podlaska, ul. Orzechowa"
+        },
+        {
+            "address": "ul. Kaliska 108 A",
+            "city": "Włocławek",
+            "lat": "52.637394",
+            "lon": "19.044486",
+            "stationId": 9791,
+            "stationName": "Włocławek, ul. Kaliska"
+        },
+        {
+            "address": "Piłsudskiego 4",
+            "city": "Ostróda",
+            "lat": "53.694587",
+            "lon": "19.969041",
+            "stationId": 10030,
+            "stationName": "Ostróda, ul. Piłsudskiego"
+        },
+        {
+            "address": "Bory",
+            "city": "Kaszów",
+            "lat": "50.025028",
+            "lon": "19.726833",
+            "stationId": 10119,
+            "stationName": "Kaszów"
+        },
+        {
+            "address": "ul. Drapałka 4",
+            "city": "Borówiec",
+            "lat": "52.276720",
+            "lon": "17.074187",
+            "stationId": 950,
+            "stationName": "Borówiec, ul. Drapałka"
+        },
+        {
+            "address": "Złoty Róg",
+            "city": "Kraków",
+            "lat": "50.081197",
+            "lon": "19.895358",
+            "stationId": 10123,
+            "stationName": "Kraków, ul. Złoty Róg"
+        },
+        {
+            "address": "Biernackiego",
+            "city": "Mielec",
+            "lat": "50.299128",
+            "lon": "21.440942",
+            "stationId": 10438,
+            "stationName": "Mielec, ul. Biernackiego"
+        },
+        {
+            "address": "Wadów",
+            "city": "Kraków",
+            "lat": "50.100569",
+            "lon": "20.122561",
+            "stationId": 10447,
+            "stationName": "Kraków, os. Wadów"
+        },
+        {
+            "address": "ul. Słoneczna 18",
+            "city": "Małogoszcz",
+            "lat": "50.809610",
+            "lon": "20.266032",
+            "stationId": 10794,
+            "stationName": "Małogoszcz, ul. Słoneczna"
+        },
+        {
+            "address": "osiedle Leśne 22",
+            "city": "Koziegłowy",
+            "lat": "52.449295",
+            "lon": "16.999634",
+            "stationId": 10834,
+            "stationName": "Koziegłowy, os.Leśne"
+        },
+        {
+            "address": "ul. Okrzei",
+            "city": "Włocławek",
+            "lat": "52.658467",
+            "lon": "19.059314",
+            "stationId": 225,
+            "stationName": "Włocławek, ul. Okrzei"
+        },
+        {
+            "address": "ul. Słowackiego",
+            "city": "Olesno",
+            "lat": "50.876983",
+            "lon": "18.416878",
+            "stationId": 584,
+            "stationName": "Olesno, ul. Słowackiego"
+        },
+        {
+            "address": "ul. 42 Pułku Piechoty 117",
+            "city": "Białystok",
+            "lat": "53.144122",
+            "lon": "23.216322",
+            "stationId": 11174,
+            "stationName": "Białystok, ul. 42 Pułku Piechoty"
+        },
+        {
+            "address": "ul. Targowa 3",
+            "city": "Kielce",
+            "lat": "50.878998",
+            "lon": "20.633692",
+            "stationId": 11195,
+            "stationName": "Kielce, ul. Targowa"
+        },
+        {
+            "address": "ul. Andrzeja Kmicica 33",
+            "city": "Biała",
+            "lat": "52.602534",
+            "lon": "19.645100",
+            "stationId": 11358,
+            "stationName": "Biała, ul. Kmicica"
+        },
+        {
+            "address": "ul. Chrościckiego 16/18",
+            "city": "Warszawa",
+            "lat": "52.207742",
+            "lon": "20.906073",
+            "stationId": 10955,
+            "stationName": "Warszawa, ul. Chrościckiego"
+        },
+        {
+            "address": "os. Armii Krajowej",
+            "city": "Opole",
+            "lat": "50.676856",
+            "lon": "17.950278",
+            "stationId": 590,
+            "stationName": "Opole, os. Armii Krajowej"
+        },
+        {
+            "address": "ul. Chopina 42",
+            "city": "Koszalin",
+            "lat": "54.194114",
+            "lon": "16.211672",
+            "stationId": 11336,
+            "stationName": "Koszalin, ul. Chopina"
+        },
+        {
+            "address": "ul. Armii Krajowej",
+            "city": "Koszalin",
+            "lat": "54.193986",
+            "lon": "16.172544",
+            "stationId": 966,
+            "stationName": "Koszalin, ul. Armii Krajowej"
+        },
+        {
+            "address": "ul. Narutowicza 28",
+            "city": "Łask",
+            "lat": "51.589208",
+            "lon": "19.131433",
+            "stationId": 11554,
+            "stationName": "Łask, ul. Narutowicza"
+        },
+        {
+            "address": "ul. Wojska Polskiego 8",
+            "city": "Racibórz",
+            "lat": "50.091142",
+            "lon": "18.216261",
+            "stationId": 11794,
+            "stationName": "Racibórz, Wojska Polskiego"
+        },
+        {
+            "address": "J. Bema",
+            "city": "Oświęcim",
+            "lat": "50.033083",
+            "lon": "19.245275",
+            "stationId": 10814,
+            "stationName": "Oświęcim, ul. J. Bema"
+        },
+        {
+            "address": "Al. Józefa Piłsudskiego 34",
+            "city": "Białystok",
+            "lat": "53.135286",
+            "lon": "23.161325",
+            "stationId": 11814,
+            "stationName": "Białystok, al.Piłsudskiego"
+        },
+        {
+            "address": "",
+            "city": "Augustów",
+            "lat": "53.852550",
+            "lon": "22.984686",
+            "stationId": 11916,
+            "stationName": "Augustów, Uzdrowisko"
+        },
+        {
+            "address": "ul. Świętego Wawrzyńca",
+            "city": "Nakło nad Notecią",
+            "lat": "53.136681",
+            "lon": "17.591539",
+            "stationId": 9798,
+            "stationName": "Nakło nad Notecią, ul. Św. Wawrzyńca"
+        },
+        {
+            "address": "ul. Koszyka 21",
+            "city": "Opole",
+            "lat": "50.666736",
+            "lon": "17.899137",
+            "stationId": 10374,
+            "stationName": "Opole, ul. Koszyka"
+        },
+        {
+            "address": "ul. Warszawska 108",
+            "city": "Kielce",
+            "lat": "50.886014",
+            "lon": "20.642858",
+            "stationId": 16196,
+            "stationName": "Kielce, ul. Warszawska 108"
+        },
+        {
+            "address": "al. Grunwaldzka 127",
+            "city": "Gdańsk",
+            "lat": "54.380682",
+            "lon": "18.601559",
+            "stationId": 16180,
+            "stationName": "Gdańsk, Al. Grunwaldzka"
+        },
+        {
+            "address": "ul. Bitwy pod Płowcami",
+            "city": "Sopot",
+            "lat": "54.434510",
+            "lon": "18.578840",
+            "stationId": 16242,
+            "stationName": "Sopot, ul. Bitwy Pod Płowcami"
+        },
+        {
+            "address": "ul. Ratuszowa 9",
+            "city": "Głubczyce",
+            "lat": "50.200778",
+            "lon": "17.830510",
+            "stationId": 10018,
+            "stationName": "Głubczyce, ul. Ratuszowa"
+        },
+        {
+            "address": "ul. Poprzeczna 1",
+            "city": "Brzeg",
+            "lat": "50.849509",
+            "lon": "17.462579",
+            "stationId": 16413,
+            "stationName": "Brzeg, ul. Poprzeczna"
+        },
+        {
+            "address": "Diabla Góra",
+            "city": "Diabla Góra",
+            "lat": "54.124819",
+            "lon": "22.038056",
+            "stationId": 882,
+            "stationName": "Diabla Góra, Puszcza Borecka"
+        },
+        {
+            "address": "ul. Piłsudskiego 27",
+            "city": "Ełk",
+            "lat": "53.828389",
+            "lon": "22.348338",
+            "stationId": 10005,
+            "stationName": "Ełk, ul. Piłsudskiego"
+        },
+        {
+            "address": "ul. Kamieńskiego",
+            "city": "Kraków",
+            "lat": "50.024605",
+            "lon": "19.978460",
+            "stationId": 16896,
+            "stationName": "Kraków, ul. Kamieńskiego"
+        },
+        {
+            "address": "Jerzego Dudy-Gracza",
+            "city": "Katowice",
+            "lat": "50.258483",
+            "lon": "19.036217",
+            "stationId": 17318,
+            "stationName": "Katowice, ul. Dudy-Gracza"
+        },
+        {
+            "address": "ul. M. Skłodowskiej-Curie 34",
+            "city": "Zabrze",
+            "lat": "50.317072",
+            "lon": "18.771258",
+            "stationId": 17880,
+            "stationName": "Zabrze, ul. M. Skłodowskiej-Curie"
+        },
+        {
+            "address": "Półłanki 76",
+            "city": "Kraków",
+            "lat": "50.034702",
+            "lon": "20.044386",
+            "stationId": 20367,
+            "stationName": "Kraków, ul. Półłanki"
+        },
+        {
+            "address": "ul. gen. J. Hallera 12",
+            "city": "Ostrołęka",
+            "lat": "53.083736",
+            "lon": "21.579322",
+            "stationId": 9114,
+            "stationName": "Ostrołęka, ul. Hallera"
+        },
+        {
+            "address": "ul. Żołnierzy AK 9",
+            "city": "Oława",
+            "lat": "50.942073",
+            "lon": "17.291333",
+            "stationId": 70,
+            "stationName": "Oława, ul. Żołnierzy Armii Krajowej"
+        },
+        {
+            "address": " ",
+            "city": "Osieczów",
+            "lat": "51.317630",
+            "lon": "15.431719",
+            "stationId": 74,
+            "stationName": "Osieczów"
+        },
+        {
+            "address": "ul. Wysockiego 11",
+            "city": "Wałbrzych",
+            "lat": "50.768729",
+            "lon": "16.269677",
+            "stationId": 109,
+            "stationName": "Wałbrzych, ul. Wysockiego"
+        },
+        {
+            "address": "ul. Wały Gen. Sikorskiego 12",
+            "city": "Toruń",
+            "lat": "53.012475",
+            "lon": "18.605681",
+            "stationId": 145,
+            "stationName": "Toruń, ul. Wały gen. Sikorskiego"
+        },
+        {
+            "address": "ul. Hrubieszowska 69A",
+            "city": "Zamość",
+            "lat": "50.716628",
+            "lon": "23.290247",
+            "stationId": 285,
+            "stationName": "Zamość, ul. Hrubieszowska"
+        },
+        {
+            "address": "Smolary Bytnickie 45A",
+            "city": "Smolary Bytnickie",
+            "lat": "52.172222",
+            "lon": "15.206667",
+            "stationId": 374,
+            "stationName": "Smolary Bytnickie"
+        },
+        {
+            "address": "ul. Krótka",
+            "city": "Zielona Góra",
+            "lat": "51.939783",
+            "lon": "15.518861",
+            "stationId": 387,
+            "stationName": "Zielona Góra ul. Krótka"
+        },
+        {
+            "address": "ul. Bujaka",
+            "city": "Kraków",
+            "lat": "50.010575",
+            "lon": "19.949189",
+            "stationId": 401,
+            "stationName": "Kraków, ul. Bujaka"
+        },
+        {
+            "address": "ul. Nadbrzeżna",
+            "city": "Nowy Sącz",
+            "lat": "49.619281",
+            "lon": "20.714403",
+            "stationId": 426,
+            "stationName": "Nowy Sącz, ul. Nadbrzeżna"
+        },
+        {
+            "address": "ul. Sienkiewicza",
+            "city": "Zakopane",
+            "lat": "49.293564",
+            "lon": "19.960083",
+            "stationId": 459,
+            "stationName": "Zakopane, ul. Sienkiewicza"
+        },
+        {
+            "address": "Osiedle PAN 1",
+            "city": "Belsk Duży",
+            "lat": "51.835242",
+            "lon": "20.791912",
+            "stationId": 460,
+            "stationName": "Belsk Duży, IGF PAN"
+        },
+        {
+            "address": "ul. Zegrzyńska 38",
+            "city": "Legionowo",
+            "lat": "52.407578",
+            "lon": "20.955928",
+            "stationId": 471,
+            "stationName": "Legionowo, ul. Zegrzyńska"
+        },
+        {
+            "address": "ul. Królowej Jadwigi 4",
+            "city": "Płock",
+            "lat": "52.556279",
+            "lon": "19.687672",
+            "stationId": 497,
+            "stationName": "Płock, ul. Królowej Jadwigi"
+        },
+        {
+            "address": "al. Niepodległości 227/233",
+            "city": "Warszawa",
+            "lat": "52.219298",
+            "lon": "21.004724",
+            "stationId": 530,
+            "stationName": "Warszawa, al. Niepodległości"
+        },
+        {
+            "address": "Sikorskiego",
+            "city": "Jasło",
+            "lat": "49.744886",
+            "lon": "21.454617",
+            "stationId": 638,
+            "stationName": "Jaslo, ul. Sikorskiego"
+        },
+        {
+            "address": "Szklarniowa",
+            "city": "Nisko",
+            "lat": "50.529892",
+            "lon": "22.112467",
+            "stationId": 659,
+            "stationName": "Nisko, ul. Szklarniowa"
+        },
+        {
+            "address": "ul. Porębskiego",
+            "city": "Gdynia",
+            "lat": "54.560836",
+            "lon": "18.493331",
+            "stationId": 732,
+            "stationName": "Gdynia, ul. Porębskiego"
+        },
+        {
+            "address": "ul. Parkowa",
+            "city": "Nowiny",
+            "lat": "50.823108",
+            "lon": "20.533506",
+            "stationId": 769,
+            "stationName": "Nowiny, ul. Parkowa"
+        },
+        {
+            "address": "ul. Ruszczańska 23",
+            "city": "Połaniec",
+            "lat": "50.429014",
+            "lon": "21.277367",
+            "stationId": 778,
+            "stationName": "Połaniec, ul. Ruszczańska"
+        },
+        {
+            "address": "ul. Kossak-Szczuckiej 19",
+            "city": "Bielsko-Biała",
+            "lat": "49.813464",
+            "lon": "19.027318",
+            "stationId": 789,
+            "stationName": "Bielsko-Biała, ul. Kossak-Szczuckiej"
+        },
+        {
+            "address": "ul. Mewy 34",
+            "city": "Gliwice",
+            "lat": "50.279481",
+            "lon": "18.655736",
+            "stationId": 809,
+            "stationName": "Gliwice, ul. Mewy"
+        },
+        {
+            "address": "ul. Kossutha 6",
+            "city": "Katowice",
+            "lat": "50.264611",
+            "lon": "18.975028",
+            "stationId": 814,
+            "stationName": "Katowice, ul. Kossutha"
+        },
+        {
+            "address": "ul. Tołstoja 1",
+            "city": "Tychy",
+            "lat": "50.099903",
+            "lon": "18.990236",
+            "stationId": 841,
+            "stationName": "Tychy, ul. Tołstoja"
+        },
+        {
+            "address": "ul. Kusocińskiego 10A",
+            "city": "Piła",
+            "lat": "53.154408",
+            "lon": "16.759572",
+            "stationId": 920,
+            "stationName": "Pila, ul. Kusocińskiego"
+        },
+        {
+            "address": "ul. Przemysłowa 5",
+            "city": "Szczecinek",
+            "lat": "53.698902",
+            "lon": "16.704556",
+            "stationId": 983,
+            "stationName": "Szczecinek, ul. Przemysłowa"
+        },
+        {
+            "address": "ul. Spokojna",
+            "city": "Szarów",
+            "lat": "50.007500",
+            "lon": "20.259167",
+            "stationId": 9179,
+            "stationName": "Szarów, ul. Spokojna"
+        },
+        {
+            "address": "Guty Duże 4",
+            "city": "Guty Duże",
+            "lat": "52.943172",
+            "lon": "21.288167",
+            "stationId": 9913,
+            "stationName": "Guty Duże"
+        },
+        {
+            "address": "ul. Brzozowa 2",
+            "city": "Otwock",
+            "lat": "52.115725",
+            "lon": "21.237297",
+            "stationId": 485,
+            "stationName": "Otwock, ul. Brzozowa"
+        },
+        {
+            "address": "al. Jana Pawła II 15",
+            "city": "Łódź",
+            "lat": "51.754613",
+            "lon": "19.434925",
+            "stationId": 10058,
+            "stationName": "Łódź, al. Jana Pawła II"
+        },
+        {
+            "address": "Piłsudskiego",
+            "city": "Rzeszów",
+            "lat": "50.040675",
+            "lon": "22.004656",
+            "stationId": 10125,
+            "stationName": "Rzeszów, ul. Piłsudskiego"
+        },
+        {
+            "address": "Sportowa",
+            "city": "Duszniki-Zdrój",
+            "lat": "50.402561",
+            "lon": "16.393311",
+            "stationId": 10093,
+            "stationName": "Duszniki-Zdrój, ul. Sportowa"
+        },
+        {
+            "address": "ul. Ks. Romana Sitko",
+            "city": "Tarnów",
+            "lat": "50.018253",
+            "lon": "20.992578",
+            "stationId": 10120,
+            "stationName": "Tarnów, ul. Ks. Romana Sitko"
+        },
+        {
+            "address": "ul. Partyzantów",
+            "city": "Bielsko-Biała",
+            "lat": "49.802075",
+            "lon": "19.048610",
+            "stationId": 10158,
+            "stationName": "Bielsko-Biała, ul.Partyzantów"
+        },
+        {
+            "address": "ul. Rolna 2",
+            "city": "Radomsko",
+            "lat": "51.067417",
+            "lon": "19.448714",
+            "stationId": 331,
+            "stationName": "Radomsko, ul. Rolna"
+        },
+        {
+            "address": "ul. Bajkowa 17/21",
+            "city": "Warszawa",
+            "lat": "52.188474",
+            "lon": "21.176233",
+            "stationId": 10956,
+            "stationName": "Warszawa, ul. Bajkowa"
+        },
+        {
+            "address": "",
+            "city": "Borsukowizna",
+            "lat": "53.215492",
+            "lon": "23.642153",
+            "stationId": 612,
+            "stationName": "Borsukowizna, Szkółka Leśna"
+        },
+        {
+            "address": "ul. Pułaskiego 26",
+            "city": "Suwałki",
+            "lat": "54.115897",
+            "lon": "22.938464",
+            "stationId": 11154,
+            "stationName": "Suwałki, ul. Pułaskiego 26"
+        },
+        {
+            "address": "Pruchnicka",
+            "city": "Jarosław",
+            "lat": "50.012083",
+            "lon": "22.674772",
+            "stationId": 631,
+            "stationName": "Jarosław, ul. Pruchnicka"
+        },
+        {
+            "address": "ul. K.I.Gałczyńskiego 3",
+            "city": "Zawiercie",
+            "lat": "50.493045",
+            "lon": "19.439012",
+            "stationId": 11455,
+            "stationName": "Zawiercie, ul. K.I.Gałczyńskiego"
+        },
+        {
+            "address": "ul. Parkowa",
+            "city": "Goczałkowice-Zdrój",
+            "lat": "49.937850",
+            "lon": "18.975594",
+            "stationId": 11457,
+            "stationName": "Goczałkowice Zdrój, ul. Parkowa"
+        },
+        {
+            "address": "ul. Jeździecka",
+            "city": "Bydgoszcz",
+            "lat": "53.175214",
+            "lon": "18.044164",
+            "stationId": 11576,
+            "stationName": "Bydgoszcz, ul. Jeździecka"
+        },
+        {
+            "address": "ul. 3 Maja",
+            "city": "Trzebnica",
+            "lat": "51.304817",
+            "lon": "17.071367",
+            "stationId": 11934,
+            "stationName": "Trzebnica, ul. 3 Maja"
+        },
+        {
+            "address": "al. Jana Pawła II 8",
+            "city": "Świecie",
+            "lat": "53.407580",
+            "lon": "18.428751",
+            "stationId": 12038,
+            "stationName": "Świecie, al. Jana Pawła II"
+        },
+        {
+            "address": "al. Mickiewicza",
+            "city": "Pleszew",
+            "lat": "51.884922",
+            "lon": "17.791106",
+            "stationId": 9218,
+            "stationName": "Pleszew, Al. Mickiewicza"
+        },
+        {
+            "address": "ul. Malczewskiego",
+            "city": "Lębork",
+            "lat": "54.546167",
+            "lon": "17.746194",
+            "stationId": 742,
+            "stationName": "Lębork, ul. Malczewskiego"
+        },
+        {
+            "address": "Licealna 10b",
+            "city": "Sulechów",
+            "lat": "52.084833",
+            "lon": "15.633250",
+            "stationId": 16238,
+            "stationName": "Sulechów, ul. Licealna"
+        },
+        {
+            "address": "Marii Dąbrowskiej",
+            "city": "Tarnobrzeg",
+            "lat": "50.575742",
+            "lon": "21.688367",
+            "stationId": 684,
+            "stationName": "Tarnobrzeg, ul. Dąbrowskiej"
+        },
+        {
+            "address": "ul. Szwajcarska",
+            "city": "Poznań",
+            "lat": "52.390879",
+            "lon": "16.998053",
+            "stationId": 16493,
+            "stationName": "Poznań ul. Szwajcarska"
+        },
+        {
+            "address": "ul. Upalna 26",
+            "city": "Białystok",
+            "lat": "53.129601",
+            "lon": "23.108054",
+            "stationId": 17658,
+            "stationName": "Białystok, ul. Upalna"
+        },
+        {
+            "address": "ul. Żółkiewskiego",
+            "city": "Kołobrzeg",
+            "lat": "54.179381",
+            "lon": "15.596347",
+            "stationId": 10934,
+            "stationName": "Kołobrzeg, ul. Żółkiewskiego"
+        },
+        {
+            "address": "ul. 1 Maja 82",
+            "city": "Skarżysko-Kamienna",
+            "lat": "51.115842",
+            "lon": "20.891593",
+            "stationId": 17758,
+            "stationName": "Skarżysko-Kamienna, ul. 1 Maja"
+        },
+        {
+            "address": "ul. Złota",
+            "city": "Starachowice",
+            "lat": "51.050611",
+            "lon": "21.084175",
+            "stationId": 785,
+            "stationName": "Starachowice, ul. Złota"
+        },
+        {
+            "address": "Kwiatkowskiego",
+            "city": "Rzeszów",
+            "lat": "49.998408",
+            "lon": "21.992183",
+            "stationId": 20201,
+            "stationName": "Rzeszów, ul. Kwiatkowskiego"
+        },
+        {
+            "address": "Kraszewskiego 8",
+            "city": "Ciechanów",
+            "lat": "52.885541",
+            "lon": "20.602511",
+            "stationId": 20209,
+            "stationName": "Ciechanów, ul. Kraszewskiego"
+        },
+        {
+            "address": "Janusza Petera 7",
+            "city": "Tomaszów Lubelski",
+            "lat": "50.444128",
+            "lon": "23.421553",
+            "stationId": 20277,
+            "stationName": "Tomaszów Lubelski, ul. Janusza Petera"
+        },
+        {
+            "address": "Lawendowe Wzgórze",
+            "city": "Gdańsk",
+            "lat": "54.328833",
+            "lon": "18.568819",
+            "stationId": 20347,
+            "stationName": "Gdańsk, ul. Lawendowe Wzgórze"
+        },
+        {
+            "address": "Ludowa",
+            "city": "Lubań",
+            "lat": "51.120091",
+            "lon": "15.298189",
+            "stationId": 20468,
+            "stationName": "Lubań, ul. Ludowa"
+        },
+        {
+            "address": "ul. Piłsudskiego 51",
+            "city": "Grudziądz",
+            "lat": "53.493550",
+            "lon": "18.762139",
+            "stationId": 142,
+            "stationName": "Grudziądz, ul. Piłsudskiego"
+        },
+        {
+            "address": "ul. Tężniowa - Park Tężniowy",
+            "city": "Ciechocinek",
+            "lat": "52.888422",
+            "lon": "18.780908",
+            "stationId": 164,
+            "stationName": "Ciechocinek, ul. Tężniowa"
+        },
+        {
+            "address": "ul. Mickiewicza",
+            "city": "Malbork",
+            "lat": "54.031247",
+            "lon": "19.032899",
+            "stationId": 741,
+            "stationName": "Malbork, ul. Mickiewicza"
+        },
+        {
+            "address": "Piaski 10",
+            "city": "Krzyżówka",
+            "lat": "52.501318",
+            "lon": "17.773175",
+            "stationId": 946,
+            "stationName": "Piaski, Krzyżówka"
+        },
+        {
+            "address": "59",
+            "city": "Krempna",
+            "lat": "49.511297",
+            "lon": "21.498606",
+            "stationId": 9175,
+            "stationName": "Krempna, Ośrodek edukacyjno-muzealny MPN"
+        },
+        {
+            "address": "ul. Kopernika 83 a",
+            "city": "Żywiec",
+            "lat": "49.671602",
+            "lon": "19.234446",
+            "stationId": 856,
+            "stationName": "Żywiec, ul. Kopernika"
+        },
+        {
+            "address": "Aleja Józefa Piłsudskiego/Harcerska 3",
+            "city": "Jastrzębie-Zdrój",
+            "lat": "49.952544",
+            "lon": "18.607953",
+            "stationId": 11855,
+            "stationName": "Jastrzębie-Zdrój, Al.J.Piłsudskiego/Harcerska"
+        },
+        {
+            "address": "ul. Żeromskiego",
+            "city": "Konstancin-Jeziorna",
+            "lat": "52.082277",
+            "lon": "21.124598",
+            "stationId": 16271,
+            "stationName": "Konstancin-Jeziorna, ul. Żeromskiego"
+        },
+        {
+            "address": "ul. Czereśniowa 4",
+            "city": "Mosina",
+            "lat": "52.241497",
+            "lon": "16.865125",
+            "stationId": 16495,
+            "stationName": "Mosina, ul. Czereśniowa"
+        },
+        {
+            "address": "ul. Podleśna 61",
+            "city": "Warszawa",
+            "lat": "52.281304",
+            "lon": "20.963383",
+            "stationId": 16533,
+            "stationName": "Warszawa, IMGW"
+        },
+        {
+            "address": "ul. 3 Maja 17",
+            "city": "Krapkowice",
+            "lat": "50.486194",
+            "lon": "17.974770",
+            "stationId": 16913,
+            "stationName": "Krapkowice, ul. 3 Maja"
+        },
+        {
+            "address": "Jana Pawła II ",
+            "city": "Kolbuszowa",
+            "lat": "50.245897",
+            "lon": "21.769494",
+            "stationId": 20200,
+            "stationName": "Kolbuszowa, ul. Jana Pawła II"
+        },
+        {
+            "address": "",
+            "city": "Jarczew",
+            "lat": "51.814367",
+            "lon": "21.972375",
+            "stationId": 248,
+            "stationName": "Jarczew, IMGW"
+        },
+        {
+            "address": "Grunwaldzka",
+            "city": "Przemyśl",
+            "lat": "49.784339",
+            "lon": "22.756239",
+            "stationId": 665,
+            "stationName": "Przemyśl, ul. Grunwaldzka"
+        },
+        {
+            "address": "Rejtana",
+            "city": "Rzeszów",
+            "lat": "50.024242",
+            "lon": "22.010575",
+            "stationId": 671,
+            "stationName": "Rzeszów, ul. Rejtana"
+        },
+        {
+            "address": "os. Piastów",
+            "city": "Kraków",
+            "lat": "50.098508",
+            "lon": "20.018269",
+            "stationId": 10139,
+            "stationName": "Kraków, os. Piastów"
+        },
+        {
+            "address": "Parkowa 5",
+            "city": "Rymanów-Zdrój",
+            "lat": "49.546539",
+            "lon": "21.851006",
+            "stationId": 10414,
+            "stationName": "Rymanów Zdrój, ul. Parkowa"
+        },
+        {
+            "address": "",
+            "city": "Florianka",
+            "lat": "50.551894",
+            "lon": "22.982861",
+            "stationId": 10874,
+            "stationName": "Florianka, RPN"
+        },
+        {
+            "address": "S. Małachowskiego 7",
+            "city": "Chojnów",
+            "lat": "51.274280",
+            "lon": "15.929804",
+            "stationId": 12056,
+            "stationName": "Chojnów, ul. S. Małachowskiego "
+        },
+        {
+            "address": "ul. Zapłotnia 2",
+            "city": "Łagów",
+            "lat": "50.778479",
+            "lon": "21.081224",
+            "stationId": 12138,
+            "stationName": "Łagów, ul. Zapłotnia"
+        },
+        {
+            "address": "ul. Białoruska",
+            "city": "Świnoujście",
+            "lat": "53.903814",
+            "lon": "14.279628",
+            "stationId": 20160,
+            "stationName": "Świnoujście, ul. Białoruska"
+        },
+        {
+            "address": "Wodociągowa",
+            "city": "Giżycko",
+            "lat": "54.043210",
+            "lon": "21.784858",
+            "stationId": 20447,
+            "stationName": "Giżycko, ul. Wodociągowa"
+        },
+        {
+            "address": "ul. Sikorskiego 48/94",
+            "city": "Łomża",
+            "lat": "53.181394",
+            "lon": "22.054381",
+            "stationId": 618,
+            "stationName": "Łomża, ul. Sikorskiego"
+        },
+        {
+            "address": "ul. Rąbka 1A",
+            "city": "Łeba",
+            "lat": "54.754139",
+            "lon": "17.534528",
+            "stationId": 750,
+            "stationName": "Łeba, IMGW"
+        },
+        {
+            "address": "ul. Bulwary Rybackie 1",
+            "city": "Widuchowa",
+            "lat": "53.122325",
+            "lon": "14.382245",
+            "stationId": 961,
+            "stationName": "Widuchowa"
+        },
+        {
+            "address": "ul. Łączna",
+            "city": "Szczecin",
+            "lat": "53.470889",
+            "lon": "14.556250",
+            "stationId": 989,
+            "stationName": "Szczecin, ul. Łączna"
+        },
+        {
+            "address": "ul. Nieszczyńskiej",
+            "city": "Sucha Beskidzka",
+            "lat": "49.743131",
+            "lon": "19.600339",
+            "stationId": 10124,
+            "stationName": "Sucha Beskidzka, ul. Nieszczyńskiej"
+        },
+        {
+            "address": "ul. Warszawska 75 A",
+            "city": "Białystok",
+            "lat": "53.129306",
+            "lon": "23.181744",
+            "stationId": 609,
+            "stationName": "Białystok, ul. Warszawska"
+        },
+        {
+            "address": "Wyszyńskiego",
+            "city": "Zielona Góra",
+            "lat": "51.936249",
+            "lon": "15.481077",
+            "stationId": 11294,
+            "stationName": "Zielona Góra,ul.Wyszyńskiego"
+        },
+        {
+            "address": "Grottgera 3",
+            "city": "Dębica",
+            "lat": "50.054786",
+            "lon": "21.416256",
+            "stationId": 9173,
+            "stationName": "Dębica, ul.Grottgera"
+        },
+        {
+            "address": "Kletówki",
+            "city": "Krosno",
+            "lat": "49.690169",
+            "lon": "21.749700",
+            "stationId": 646,
+            "stationName": "Krosno, ul. Kletówki"
+        },
+        {
+            "address": "ul. 3 Maja",
+            "city": "Niepołomice",
+            "lat": "50.035117",
+            "lon": "20.212689",
+            "stationId": 455,
+            "stationName": "Niepołomice, ul. 3 Maja"
+        },
+        {
+            "address": "Solidarności 6",
+            "city": "Myślenice",
+            "lat": "49.831237",
+            "lon": "19.923591",
+            "stationId": 16753,
+            "stationName": "Myślenice"
+        },
+        {
+            "address": "Kampinoski Park Narodowy",
+            "city": "Granica",
+            "lat": "52.285858",
+            "lon": "20.454653",
+            "stationId": 466,
+            "stationName": "Granica, KPN"
+        },
+        {
+            "address": "ul. Jeziorna 19",
+            "city": "Nowa Ruda",
+            "lat": "50.581492",
+            "lon": "16.498245",
+            "stationId": 11254,
+            "stationName": "Nowa Ruda, ul. Jeziorna"
+        },
+        {
+            "address": "ul. Połaniecka",
+            "city": "Chełm",
+            "lat": "51.122147",
+            "lon": "23.473075",
+            "stationId": 11360,
+            "stationName": "Chełm, ul. Połaniecka"
+        },
+        {
+            "address": "ul. Ks. Płk. Jana Szymały 3",
+            "city": "Lubliniec",
+            "lat": "50.675693",
+            "lon": "18.682065",
+            "stationId": 11278,
+            "stationName": "Lubliniec, ul. ks. Szymały"
+        },
+        {
+            "address": "Orkana",
+            "city": "Rabka-Zdrój",
+            "lat": "49.608647",
+            "lon": "19.966008",
+            "stationId": 10446,
+            "stationName": "Rabka-Zdrój, ul. Orkana"
+        },
+        {
+            "address": "Wapienna",
+            "city": "Zabierzów",
+            "lat": "50.116028",
+            "lon": "19.800639",
+            "stationId": 11434,
+            "stationName": "Zabierzów, ul. Wapienna"
+        },
+        {
+            "address": "ul. Chopina 37",
+            "city": "Cieszyn",
+            "lat": "49.755989",
+            "lon": "18.634075",
+            "stationId": 16406,
+            "stationName": "Cieszyn, ul. Chopina"
+        },
+        {
+            "address": "Sadowa",
+            "city": "Sanok",
+            "lat": "49.571731",
+            "lon": "22.195892",
+            "stationId": 678,
+            "stationName": "Sanok, ul. Sadowa"
+        },
+        {
+            "address": "Wysowa",
+            "city": "Uście Gorlickie Wysowa",
+            "lat": "49.440175",
+            "lon": "21.178087",
+            "stationId": 17118,
+            "stationName": "Wysowa-Zdrój, Park Zdrojowy"
+        },
+        {
+            "address": "Starzyńskiego 17",
+            "city": "Rzeszów",
+            "lat": "50.060381",
+            "lon": "21.980511",
+            "stationId": 17179,
+            "stationName": "Rzeszów, ul. Starzyńskiego"
+        },
+        {
+            "address": "Lusińska",
+            "city": "Kraków",
+            "lat": "49.991442",
+            "lon": "19.936792",
+            "stationId": 11303,
+            "stationName": "Kraków, os. Swoszowice"
+        },
+        {
+            "address": "Miła 17",
+            "city": "Bytów",
+            "lat": "54.172700",
+            "lon": "17.492990",
+            "stationId": 16270,
+            "stationName": "Bytów, ul. Miła"
+        },
+        {
+            "address": "T. Kościuszki",
+            "city": "Nowa Sól",
+            "lat": "51.809103",
+            "lon": "15.708042",
+            "stationId": 16613,
+            "stationName": "Nowa Sól"
+        },
+        {
+            "address": "al. Tysiąclecia",
+            "city": "Nowy Targ",
+            "lat": "49.476675",
+            "lon": "20.034878",
+            "stationId": 16894,
+            "stationName": "Nowy Targ, al. Tysiąclecia "
+        },
+        {
+            "address": "Olimpijska 10",
+            "city": "Krotoszyn",
+            "lat": "51.697308",
+            "lon": "17.441263",
+            "stationId": 20307,
+            "stationName": "Krotoszyn, ul. Olimpijska"
+        },
+        {
+            "address": "ul. Mickiewicza 10",
+            "city": "Kluczbork",
+            "lat": "50.972181",
+            "lon": "18.207575",
+            "stationId": 577,
+            "stationName": "Kluczbork, ul. Mickiewicza"
+        },
+        {
+            "address": "ul. Rodziewiczówny 1",
+            "city": "Nysa",
+            "lat": "50.460992",
+            "lon": "17.331499",
+            "stationId": 20387,
+            "stationName": "Nysa, ul. Rodziewiczówny 1"
+        },
+        {
+            "address": "Złockie 79",
+            "city": "Złockie",
+            "lat": "49.374147",
+            "lon": "20.879581",
+            "stationId": 10817,
+            "stationName": "Złockie, szkoła podstawowa"
+        },
+        {
+            "address": " Cegielniana",
+            "city": "Olkusz",
+            "lat": "50.284000",
+            "lon": "19.564044",
+            "stationId": 11301,
+            "stationName": "Olkusz, ul. Cegielniana"
+        },
+        {
+            "address": "ul. Jurajska 7",
+            "city": "Kielce",
+            "lat": "50.887606",
+            "lon": "20.579965",
+            "stationId": 16497,
+            "stationName": "Kielce, ul. Jurajska"
+        }
+    ],
+    "timestamp": "2025-04-23T13:00:30"
+}
